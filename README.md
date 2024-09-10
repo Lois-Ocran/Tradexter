@@ -1,7 +1,5 @@
 # Tradexter Website
 
-![Tradexter Logo](https://i.ibb.co/HqNTswb/trading-compani-64926985-2.png)
-
 ## Overview
 
 Tradexter is a web-based platform designed to help users enhance their trading skills and knowledge of financial markets, specifically focusing on the Ghana Stock Exchange. The platform offers a range of interactive features, including:
